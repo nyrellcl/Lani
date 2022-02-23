@@ -47,6 +47,24 @@ img{
   padding: 1.5rem;
   color: white;
 }
+.grid-cont{
+  display: grid;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  grid-template-columns: repeat(2,1fr);
+  grid-template-rows: 1fr;
+  grid-template-areas:
+    "g1 g2";
+}
+
+#g1{
+  grid-area: g1;
+}
+
+#g2{
+  grid-area: g2;
+}
 .intro{
   display: flex;
   justify-content: center;
