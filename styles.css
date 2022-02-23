@@ -112,6 +112,7 @@ img{
   width: 100%;
   justify-content: center;
   grid-gap: 50px;
+  margin: 40px auto;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: 1fr;
   grid-template-areas:
