@@ -77,6 +77,12 @@ img{
   letter-spacing: 15px;
   margin-top: 30px;
 }
+.intro-details{
+  width: 100%;
+  text-align: center;
+  line-height: 0.95rem;
+  margin-top: 25px;
+}
 .slider {
   width: 480px;
   margin: 0 auto;
