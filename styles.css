@@ -33,6 +33,7 @@ img{
   top: 0;
   left: 0;
   z-index: 10;
+  background-color: #FCD13C;
 }
 
 .nav-list{
@@ -43,9 +44,11 @@ img{
   display: block;
   font-size: 20px;
   padding: 1.5rem;
+  color: black;
 }
 .slider {
-    width: 480px;
+  width: 480px;
+  margin: 0 auto;
 }
 
 .slides{
