@@ -17,6 +17,9 @@ a{
 a:hover{
   text-decoration: underline;
 }
+img{
+  height: 380px;
+}
 
 .nav-bar{
   width: 100%;
@@ -37,3 +40,14 @@ a:hover{
   font-size: 20px;
   padding: 1.5rem;
 }
+.slider {
+    width: 380px;
+}
+
+.slides{
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+}
+
