@@ -50,6 +50,18 @@ img{
   width: 480px;
   margin: 0 auto;
 }
+.slider > a {
+    display: inline-flex;
+    width: 1.5rem;
+    height: 1.5rem;
+    text-decoration: none;
+    background-color: #FCD13C;
+    border-radius: 50%;
+    color: black;
+    position: relative;
+    margin: 0.5rem 0 0.5rem 0;
+    justify-content: center;
+}
 
 .slides{
   display: flex;
