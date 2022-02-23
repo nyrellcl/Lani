@@ -107,3 +107,13 @@ img{
   scroll-behavior: smooth;
 }
 
+.gallery-grid{
+  display: grid;
+  width: 100%;
+  justify-content: center;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 1fr;
+  grid-template-areas:
+    "gal-1 gal-2 gal-3";
+}
+
