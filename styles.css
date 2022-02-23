@@ -63,7 +63,6 @@ img{
   font-family:'Poppins', sans-serif;
   font-size: 1.4rem;
   letter-spacing: 15px;
-  margin-top: 30px;
 }
 .intro-details{
   width: 100%;
@@ -73,7 +72,8 @@ img{
 }
 .slider {
   width: 480px;
-  margin: 0 auto;
+  margin-bottom: 60px;
+  padding: 80px auto;
 }
 .slider > a {
     display: inline-flex;
