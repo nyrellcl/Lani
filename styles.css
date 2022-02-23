@@ -101,6 +101,7 @@ img{
 
 .slides{
   display: flex;
+  height: 480px;
   overflow-x: auto;
   scroll-snap-type: x mandatory;
   scroll-behavior: smooth;
