@@ -47,25 +47,15 @@ img{
   padding: 1.5rem;
   color: white;
 }
-.grid-cont{
-  display: grid;
+.slides-cont{
+  display: flex;
+  flex-direction: column;
   width: 100%;
   justify-content: center;
   align-items: center;
-  grid-template-columns: repeat(2,1fr);
-  grid-template-rows: 1fr;
-  grid-template-areas:
-    "g1 g2";
   background-color: #FCD13C;
 }
 
-#g1{
-  grid-area: g1;
-}
-
-#g2{
-  grid-area: g2;
-}
 .intro{
   width: 100%;
   padding: 35px;
