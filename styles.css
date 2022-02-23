@@ -1,1 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
 
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+ul{
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+.nav-bar{
+  width: 100%;
+  position: sticky;
+  display: flex;
+  justify-content: flex-end;
+  top: 0;
+  left: 0;
+  z-index: 10;
+}
+
+.nav-list{
+  display: flex;
+  margin-right: 1.5rem;
+}
+.nav-list a{
+  display: block;
+  font-size: 20px;
+  padding: 1.5rem;
+}
