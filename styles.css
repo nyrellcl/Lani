@@ -24,6 +24,7 @@ img{
   width: 480px;
   top: 0;
   left: 0;
+  object-fit: cover;
 }
 
 .nav-bar{
