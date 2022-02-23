@@ -117,3 +117,14 @@ img{
     "gal-1 gal-2 gal-3";
 }
 
+#gal-1{
+  grid-area: gal-1;
+}
+
+#gal-2{
+  grid-area: gal-2;
+}
+
+#gal-3{
+  grid-area: gal-3;
+}
