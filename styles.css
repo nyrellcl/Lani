@@ -56,6 +56,7 @@ img{
   grid-template-rows: 1fr;
   grid-template-areas:
     "g1 g2";
+  background-color: #FCD13C;
 }
 
 #g1{
@@ -75,7 +76,6 @@ img{
   font-size: 1.8rem;
   letter-spacing: 15px;
   margin-bottom: 25px;
-  background-color: #FCD13C;
 }
 .slider {
   width: 480px;
