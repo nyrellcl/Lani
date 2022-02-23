@@ -19,6 +19,9 @@ a:hover{
 }
 img{
   height: 380px;
+  width: 380px;
+  top: 0;
+  left: 0;
 }
 
 .nav-bar{
