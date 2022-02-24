@@ -187,6 +187,15 @@ img{
     justify-items: center;
     margin: 0 auto;
   }
+  .slides img {
+    width: 100%;
+    padding: 55px;
+}
+  .intro{
+    display: flex;
+    justify-content: center;
+    font-size: 0.95rem;
+  }
   
 }
 
