@@ -109,6 +109,10 @@ img{
     width: 100%;
 }
 
+.gal-cont{
+  background-color: #FDDD6D;
+  padding: 25px 0;
+}
 .gallery-section{
   display: flex;
   flex-wrap: wrap;
