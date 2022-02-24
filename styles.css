@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
 
 *{
   box-sizing: border-box;
@@ -62,7 +62,8 @@ img{
   width: 100%;
   padding: 35px;
   text-align: center;
-  font-family:'Poppins', sans-serif;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 400;
   font-size: 1.4rem;
   letter-spacing: 15px;
 }
