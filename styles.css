@@ -55,6 +55,7 @@ img{
   justify-content: center;
   align-items: center;
   background-color: #FCD13C;
+  background-image: linear-gradient(180deg, #FCD13c, #f8ebad);
   box-shadow: 0 8px 45px rgb(212 166 20 / 58%);
 }
 
@@ -112,6 +113,7 @@ img{
 
 .gal-cont{
   background-color: #FDDD6D;
+  background-image: linear-gradient(360deg, #FDDD6D, #f8ebad);
   padding: 25px 0;
 }
 .gallery-section{
