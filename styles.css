@@ -8,6 +8,10 @@
   font-family: 'Nunito', sans-serif;
 }
 
+html,body{
+  width: 100%;
+  overflow-x: hidden;
+}
 ul{
   list-style: none;
 }
