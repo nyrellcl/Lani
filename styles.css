@@ -174,5 +174,8 @@ img{
   .gallery-section{
     flex-direction: column;
   }
+  .nav-bar{
+    display: none;
+  }
 }
 
