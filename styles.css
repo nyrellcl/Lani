@@ -134,11 +134,10 @@ img{
 #gal-3{
   grid-area: gal-3;
 }
-
 .contact-list{
   display: flex;
   justify-content: space-evenly;
-  margin: 25px;
+  margin: 25px 0;
   background-color: #3CC7FC;
   padding: 18px;
   align-content: center;
@@ -152,10 +151,12 @@ img{
 
 #contact{
   text-align: center;
+  background-color: #3CC7FC;
+  
 }
 
 #contact > h2{
-  font-size: 1.7rem;
+  font-size: 2.5rem;
 }
 
 #contact > p{
