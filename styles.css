@@ -196,6 +196,9 @@ img{
     justify-content: center;
     font-size: 0.95rem;
   }
+  .slider a{
+    display: none;
+  }
   
 }
 
