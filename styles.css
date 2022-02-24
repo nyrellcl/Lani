@@ -134,3 +134,13 @@ img{
 #gal-3{
   grid-area: gal-3;
 }
+
+.contact-list{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 25px;
+  background-color: #3CC7FC;
+  padding: 18px;
+  align-content: center;
+  width: 100%;
+}
