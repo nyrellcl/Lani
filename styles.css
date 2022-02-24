@@ -177,5 +177,10 @@ img{
   .nav-bar{
     display: none;
   }
+  
+  .contact-list{
+    flex-direction: column;
+    justify-items: center;
+  }
 }
 
