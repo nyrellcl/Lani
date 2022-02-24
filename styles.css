@@ -97,6 +97,17 @@ img{
   scroll-behavior: smooth;
 }
 
+.slides > div {
+    justify-content: center;
+    align-items: center;
+    transform-origin: center center;
+    flex-shrink: 0;
+    scroll-snap-align: center;
+    position: relative;
+    display: flex;
+    width: 100%;
+}
+
 .gallery-grid{
   display: grid;
   width: 100%;
