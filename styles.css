@@ -20,6 +20,12 @@ a{
   text-decoration: none;
 }
 
+aside{
+  text-align: center;
+  margin: 24px 0;
+  font-size: 1.2rem;
+}
+
 a:hover{
   text-decoration: underline;
 }
