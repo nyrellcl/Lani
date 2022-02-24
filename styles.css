@@ -122,7 +122,7 @@ img{
     display: flex;
     width: 100%;
 }
-slides::-webkit-scrollbar {
+.slides::-webkit-scrollbar {
   width: 10px;
   height: 10px;
 }
