@@ -194,6 +194,9 @@ img{
 }
 
 @media screen and (max-width: 600px){
+  li{
+    margin: 8px;
+  }
   .gallery-section{
     flex-direction: column;
   }
